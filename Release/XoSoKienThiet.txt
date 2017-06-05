@@ -1,0 +1,15 @@
+  -VV-----VV--VVVVVVV------VVVVVV---VVVVVVV-----VV----VV-VVVV-VVVVVVVV-VV----VV
+  --VV---VV--VV-----VV----VV----VV-VV-----VV----VV---VV---VV--VV-------VVV---VV
+  ---VV-VV---VV-----VV----VV-------VV-----VV----VV--VV----VV--VV-------VVVV--VV
+  ----VVV----VV-----VV-----VVVVVV--VV-----VV----VVVVV-----VV--VVVVVV---VV-VV-VV
+  ---VV-VV---VV-----VV----------VV-VV-----VV----VV--VV----VV--VV-------VV--VVVV
+  --VV---VV--VV-----VV----VV----VV-VV-----VV----VV---VV---VV--VV-------VV---VVV
+  -VV-----VV--VVVVVVV------VVVVVV---VVVVVVV-----VV----VV-VVVV-VVVVVVVV-VV----VV
+
+                    -UUUUUUUU-UU-----UU-UUUU-UUUUUUUU-UUUUUUUU
+                    ----UU----UU-----UU--UU--UU----------UU---
+                    ----UU----UU-----UU--UU--UU----------UU---
+                    ----UU----UUUUUUUUU--UU--UUUUUU------UU---
+                    ----UU----UU-----UU--UU--UU----------UU---
+                    ----UU----UU-----UU--UU--UU----------UU---
+                    ----UU----UU-----UU-UUUU-UUUUUUUU----UU--- 
